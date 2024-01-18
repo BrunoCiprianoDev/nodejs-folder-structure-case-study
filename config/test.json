@@ -1,0 +1,15 @@
+{
+  "App": {
+    "resources": {
+      "api": {
+        "apiToken": "test-token"
+      }
+    },
+    "database": {
+      "databaseUrl": "url from db"
+    },
+    "logger": {
+      "enabled": false
+    }
+  }
+}
